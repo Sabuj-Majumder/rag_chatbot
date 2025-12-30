@@ -4,6 +4,17 @@ A premium, localized Retrieval-Augmented Generation (RAG) system that allows you
 
 ![UI Screenshot](https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit) ![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi) ![AI](https://img.shields.io/badge/AI-Groq_Llama3-orange?style=for-the-badge)
 
+## 📸 App Demo
+![RAG Master Interface](assets/App_demo1.jpeg)
+*Main Interface exploring documents.*
+
+![Search Results](assets/App_demo2.jpeg)
+*Smart search with Answer, Context, and Source tabs.*
+
+![Visual Analysis](assets/App_demo3.jpeg)
+*Visual intelligence analyzing a schematic.*
+
+
 ## ✨ Features
 
 - **📄 Multi-Format Support**: Ingest PDF, DOCX, TXT, CSV, SQL, and Image files.
@@ -28,7 +39,7 @@ A premium, localized Retrieval-Augmented Generation (RAG) system that allows you
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Sabuj-Majumder/rag_chatbot>
    cd rag_project
    ```
 
