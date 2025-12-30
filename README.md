@@ -39,7 +39,7 @@ A premium, localized Retrieval-Augmented Generation (RAG) system that allows you
 
 1. **Clone the Repository**
    ```bash
-   git clone <https://github.com/Sabuj-Majumder/rag_chatbot>
+   git clone https://github.com/Sabuj-Majumder/rag_chatbot.git
    cd rag_project
    ```
 
